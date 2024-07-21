@@ -16,6 +16,6 @@ mybatis-plus:
 
 logging:
   level:
-    com.atheism: debug
+    com.itheima: debug
   pattern:
     dateformat: HH:mm:ss
